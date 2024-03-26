@@ -1,0 +1,20 @@
+Ali bin Haji Bakiri;123456789;alihjbakiri@gmail.com;1985-03-15;ST;3;2.5
+Robert Downey Jr;987654321;rbj@gmail.com;1995-03-24;MP;6;1.5
+Singgam a/l Muthusamy;923756205;singmut@gmail.com;1999-12-18;IC;3;3.5
+Nazilah binti Gustamam;853902743;naz43@gmail.com;2000-7-21;IC;5;2.0
+Lim Yi Qing;127690384;yiqing@gmail.com;1992-9-07;MP;7;1.5
+Rizalman bin Bukhari;947239532;rb@gmail.com;1998-09-25;ST;6;3.5
+Dollah bin Abu;095386362;dollahabu@gmail.com;1990-01-12;ST;4;5.0
+Abdul Somad;842935860;abdulsomad@gmail.com;1989-12-07;MP;1;2.8
+Faizah binti Muhd Azman;094759242;faizahf@gmail.com;2002-05-10;ST;2;4.0
+Ahmad Hazrin bin Mazlan;947203762;amdhaz@gmail.com;1991-03-15;IC;7;10.0
+Nurul Rin binti Ismail;894215367;rinnn@gmail.com;1989-02-15;IC;2;2.0
+Ilyas bin Azman;947823156;ilyashensem@gmail.com;1994-08-23;ST;3;3.0
+Faheem bin Farouk;726935184;fahrook@gmail.com;1972-09-30;MP;2;2.0
+Farhan bin Faris;792231043;farhannn@gmail.com;1979-02-23;IC;2;3.0
+Fareez binti Hattan;992304103;fareezh@gmail.com;1999-03-04;ST;3;5.0
+Bakri Yahya bin Nais;933304091;bakya@gmail.com;1993-03-04;IC;4;3.0
+Farizuddin bin Selamat;040411932;farizuuu@gmail.com;2004-04-11;MP;5;5.0
+Hafiz bin Hafizzuddin;030211039;hafizzz22@gmail.com;2003-02-11;MP;6;4.0
+Lok Quan Yen;930402039;lqy@gmail.com;1993-04-02;IC;3;2.0
+Justin Guan Yu Eng;920403221;justineng@gmail.com;1992-04-03;ST;2;2.0
